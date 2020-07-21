@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Final Assignment</title>
+</head>
+<body>
+    <h1>Arj Srivastava</h1>
+    <a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fwulai-town-near-taipei-beautiful-waterfall-pictu-wulai-town-near-taipei-taiwan-beautiful-waterfall-109384122.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fwulai-town-near-taipei-beautiful-waterfall-pictu-wulai-town-near-taipei-taiwan-beautiful-waterfall-image109382492&tbnid=7xLyRzsmi42s_M&vet=10CAMQxiAoAGoXChMI4IKQk8rd6gIVAAAAAB0AAAAAEAs..i&docid=W3uhTX2KteozVM&w=600&h=900&itg=1&q=pictu&ved=0CAMQxiAoAGoXChMI4IKQk8rd6gIVAAAAAB0AAAAAEAs"> one</a>
+
+
+    <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FAnsiPictures%2F&psig=AOvVaw13QJgBa1qDXFO_rqQ4ADzo&ust=1595394589297000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCCkJPK3eoCFQAAAAAdAAAAABAQ"> two</a>
+
+
+    <a href="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.desktopwallpaperhd.net%2Fdesktop-wallpapers-best-high-pictu-widescreen-definition-quality-dizorb-space-background-picture-178042.html&psig=AOvVaw13QJgBa1qDXFO_rqQ4ADzo&ust=1595394589297000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCCkJPK3eoCFQAAAAAdAAAAABAV"> three</a>
+
+
+    <a href="https://getbootstrap.com/"> Bootstrap</a>
+
+    <h2>Favrorite Foods</h2>
+    <ul>
+        <li>Noodles</li>
+        <li>Pizza</li>
+        <li>Fried Rice</li>
+        <li>Burger</li>
+    </ul>
+    <h2>Achievements</h2>
+    <p>Progress in this course(100%) <progress max="100" value="100">100%</progress></p>
+    <p>Progress in this Specialization capstone(20%)<progress max="100" value="20">20%</progress></p>
+    <p>Progress in life goals(50%) <progress max="100" value="50">50%</progress></p>
+    <h2>More About Me </h2>
+    <details>
+        <summary>My Childhood.</summary>
+        I studied in st.John's School Marhauli. Currently I am studying in Juit.
+    </details>
+
+    <figure>
+        <img style="-webkit-user-select: none;margin: auto;" src="https://www.intro-webdesign.com/images/newlogo.png" alt="Error"> This page was created by Arj Srivastava and Colleen van Lent. To learn more about web design, visit <a href="https://intro-webdesign.com/"> Intro to Web Design.</a>
+    </figure>
+</body>
+</html>
